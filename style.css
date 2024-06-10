@@ -1,0 +1,32 @@
+button{
+    width: 200px;
+    height: 60px;
+    border-radius: 100px;
+    border: 2px solid #000;
+    background: #BBFF2C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 0 #000000;
+    margin-top: 20px;
+    transition-duration: 0.3s;
+    margin-left: 20px;
+}
+a {
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+}
+h2{
+    color: #2B2D35;
+    font-size: 80px;
+    font-family: Quicksand;
+    display: flex;
+    justify-content: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+    
+}
